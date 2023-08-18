@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9469306A2A8DDAF1003E3047 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946930692A8DDAF1003E3047 /* StorageManager.swift */; };
 		A83A1D5329D9ECCA000B0D27 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83A1D5229D9ECCA000B0D27 /* AppDelegate.swift */; };
 		A83A1D5529D9ECCA000B0D27 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83A1D5429D9ECCA000B0D27 /* SceneDelegate.swift */; };
 		A83A1D5729D9ECCA000B0D27 /* TaskListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A83A1D5629D9ECCA000B0D27 /* TaskListViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		946930692A8DDAF1003E3047 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 		A83A1D4F29D9ECCA000B0D27 /* TaskList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TaskList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A83A1D5229D9ECCA000B0D27 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A83A1D5429D9ECCA000B0D27 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				A83A1D5229D9ECCA000B0D27 /* AppDelegate.swift */,
+				946930692A8DDAF1003E3047 /* StorageManager.swift */,
 				A83A1D5429D9ECCA000B0D27 /* SceneDelegate.swift */,
 				A83A1D5629D9ECCA000B0D27 /* TaskListViewController.swift */,
 				A83A1D5E29D9ECCB000B0D27 /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			files = (
 				A83A1D5D29D9ECCA000B0D27 /* TaskList.xcdatamodeld in Sources */,
 				A83A1D5729D9ECCA000B0D27 /* TaskListViewController.swift in Sources */,
+				9469306A2A8DDAF1003E3047 /* StorageManager.swift in Sources */,
 				A83A1D5329D9ECCA000B0D27 /* AppDelegate.swift in Sources */,
 				A83A1D5529D9ECCA000B0D27 /* SceneDelegate.swift in Sources */,
 			);
